@@ -1,4 +1,16 @@
-A lot of features for display purposes only. Type London into search bar and zoom in on the map around London and you will see the red markers on the map. Map does not display on mobile devices. 
+![image](https://user-images.githubusercontent.com/55191791/139926747-8e60afe8-0b9c-42a4-9168-2c2de891fbf5.png)
+
+
+![image](https://user-images.githubusercontent.com/55191791/139926859-3d8b48fc-29d3-4565-9a70-9d2d7e2e1510.png)
+
+![image](https://user-images.githubusercontent.com/55191791/139926923-5c11d7db-e098-4a23-b60b-54017628d3b4.png)
+
+![image](https://user-images.githubusercontent.com/55191791/139927035-55d6e648-8b20-40de-8ccc-19bc62075a16.png)
+
+
+
+
+A lot of features for display purposes only. Type London into search bar and zoom in on the map around London and you will see the red markers on the map. Map does not display on mobile devices. We are only using London for display purposes for hotels rooms etc and on map
 
 Access it here https://airbnb-yt-demo-beige.vercel.app/
 
